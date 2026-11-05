@@ -1,9 +1,0 @@
-{
-  "name": "game-hub",
-  "private": true,
-  "scripts": { "fetch-scramjet": "node scripts/fetch-scramjet.mjs" },
-  "dependencies": {
-    "@mercuryworkshop/scramjet": "latest",
-    "@mercuryworkshop/scramjet-controller": "latest"
-  }
-}
